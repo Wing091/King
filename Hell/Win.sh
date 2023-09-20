@@ -1,0 +1,1 @@
+./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u R9aKStHt4c3cGmsEDmWojERUpVnFZ41SXU.Xwin -p x --cpu 8
